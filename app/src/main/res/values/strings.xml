@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adplay</string>
+    <string name="tag"><![CDATA[<ins class=\"adplay_pmp_content_121\" data-ad-client=\"583d67557b8f3\" data-ad-iab=\"IAB11-1\"
+     data-ad-w=\"300\" data-ad-h=\"250\" data-ad-pt=\"web\" data-ad-c_type=\"1\"
+     data-clickurl=\"%%CLICK_URL_UNESC%%CMP_CLICKURL\" data-auction=\"${AUCTION_PRICE}\"
+     style=\"display:block;text-align: center; margin:0 auto;\"></ins>]]></string>
+</resources>

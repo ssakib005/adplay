@@ -1,0 +1,3 @@
+include ':adplay'
+include ':app'
+rootProject.name = "Adplay"
