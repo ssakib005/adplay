@@ -8,8 +8,7 @@ use Gradle:
 -<b>Project Level build.gradel</b>
 
 repositories {
-  google()
-  jcenter()
+  ..
   maven { url 'https://jitpack.io' }
 }
 -<b>App Level build.gradel</b>
