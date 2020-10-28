@@ -5,12 +5,12 @@ AdPlay is an Android SDK for dealing with any kind of advertisement in your appl
 
 use Gradle:
 
--<b>Project Level build.gradel</b>
+-<b>Project Level build.gradel</b></br>
 
 repositories {
-  ..
-  maven { url 'https://jitpack.io' }
-}
+  ..</br>
+  maven { url 'https://jitpack.io' } <br>
+}<br>
 -<b>App Level build.gradel</b>
 
 dependencies {
